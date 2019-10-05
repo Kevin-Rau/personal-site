@@ -1,7 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is for my personal site and to showcase some of me web dev knowledge. 
 
-## Available Scripts
+## A React JS Website
 
-In the project directory, you can run:
+Backend TDB
 
-### `npm start`
+
